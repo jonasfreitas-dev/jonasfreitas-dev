@@ -1,4 +1,4 @@
-### Olá eu sou o Jonas Freitas, Chief Technology Officer e Senior Fullstack Developer em Go Tech Solution Ltda.
+### Olá eu sou o Jonas Freitas, Chief Technology Officer e Senior Fullstack Developer na Go Tech Solution Ltda.
 
 <div align="left">
   <a href="https://github.com/jonasfreitas-dev">
