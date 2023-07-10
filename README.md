@@ -1,10 +1,26 @@
-### Olá eu sou o Jonas Freitas, Chief Technology Officer e Senior Fullstack Developer na Go Tech Solution Ltda.
 
-<div align="left">
-  <a href="https://github.com/jonasfreitas-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasfreitas-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasfreitas-dev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+**Olá! Meu nome é Jonas Freitas**
+
+Sou um desenvolvedor web/desktop fullstack apaixonado por várias tecnologias web. Eu gosto de experimentar diferentes tecnologias. Tenho uma experiência de mais de 10 anos de desenvolvimento, aonde tive contato com várias linguagens e frameworks.
+
+**Experiência e conhecimento abrangente**
+
+- Mais de 10 anos de experiência em desenvolvimento web/desktop fullstack.
+- Trabalhei com uma ampla gama de linguagens e frameworks.
+- Conhecimento abrangente das melhores práticas de desenvolvimento.
+- Soluções eficientes para atender às necessidades dos projetos.
+
+**Comprometido com qualidade e inovação**
+
+- Comprometimento com a entrega de soluções eficazes.
+- Busca por desafios estimulantes e novas possibilidades.
+- Foco na criação de produtos que se destacam em funcionalidade e design.
+- Experiências excepcionais para os usuários.
+
+---
+
+Espero que essa formatação em tópicos seja útil para destacar as informações importantes de forma clara e organizada. Se você precisar de mais ajuda, estou à disposição!
+
 <div style="display: inline_block"><br>
   <img align="center" alt="JonasFreitas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></img>
       <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original-wordmark.svg" />
@@ -20,7 +36,4 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   </a>
-  
-  ![Snake animation](https://github.com/jonasfreitas-dev/jonasfreitas-dev/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
