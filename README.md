@@ -19,8 +19,6 @@ Sou um desenvolvedor web/desktop fullstack apaixonado por várias tecnologias we
 
 ---
 
-Espero que essa formatação em tópicos seja útil para destacar as informações importantes de forma clara e organizada. Se você precisar de mais ajuda, estou à disposição!
-
 <div style="display: inline_block"><br>
   <img align="center" alt="JonasFreitas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></img>
       <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original-wordmark.svg" />
