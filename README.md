@@ -1,21 +1,18 @@
+Sou um desenvolvedor fullstack especializado em aplicações web e desktop, com mais de 10 anos de experiência. Apaixonado por tecnologia, gosto de explorar diferentes linguagens e frameworks para criar soluções inovadoras e eficientes.
 
-**Olá! Meu nome é Jonas Freitas**
+## Experiência e Conhecimento
 
-Sou um desenvolvedor web/desktop fullstack apaixonado por várias tecnologias web. Eu gosto de experimentar diferentes tecnologias. Tenho uma experiência de mais de 10 anos de desenvolvimento, aonde tive contato com várias linguagens e frameworks.
+- **Versatilidade Tecnológica:** Ampla experiência com diversas linguagens e frameworks.
+- **Melhores Práticas:** Profundo conhecimento das metodologias e práticas de desenvolvimento.
+- **Soluções Eficientes:** Foco em atender às necessidades específicas de cada projeto de forma eficaz.
 
-**Experiência e conhecimento abrangente**
+## Compromisso com Qualidade e Inovação
 
-- Mais de 10 anos de experiência em desenvolvimento web/desktop fullstack.
-- Trabalhei com uma ampla gama de linguagens e frameworks.
-- Conhecimento abrangente das melhores práticas de desenvolvimento.
-- Soluções eficientes para atender às necessidades dos projetos.
+- **Excelência na Entrega:** Comprometido em fornecer soluções de alta qualidade.
+- **Busca por Desafios:** Interesse contínuo por desafios estimulantes e novas possibilidades.
+- **Experiência do Usuário:** Dedicação em criar produtos que se destacam em funcionalidade e design, proporcionando experiências excepcionais aos usuários.
 
-**Comprometido com qualidade e inovação**
-
-- Comprometimento com a entrega de soluções eficazes.
-- Busca por desafios estimulantes e novas possibilidades.
-- Foco na criação de produtos que se destacam em funcionalidade e design.
-- Experiências excepcionais para os usuários.
+Estou sempre aberto a novas oportunidades que me permitam crescer profissionalmente e contribuir para projetos significativos.
 
 ---
 
