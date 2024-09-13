@@ -1,18 +1,40 @@
-Sou um desenvolvedor fullstack especializado em aplicações web e desktop, com mais de 10 anos de experiência. Apaixonado por tecnologia, gosto de explorar diferentes linguagens e frameworks para criar soluções inovadoras e eficientes.
+# Jonas Freitas
 
-## Experiência e Conhecimento
+Olá! Eu sou Jonas Freitas, um desenvolvedor **Fullstack** com mais de **10 anos de experiência** em desenvolvimento web e desktop. Sou apaixonado por tecnologia e adoro explorar diferentes linguagens e frameworks para criar soluções inovadoras e eficientes.
 
-- **Versatilidade Tecnológica:** Ampla experiência com diversas linguagens e frameworks.
-- **Melhores Práticas:** Profundo conhecimento das metodologias e práticas de desenvolvimento.
-- **Soluções Eficientes:** Foco em atender às necessidades específicas de cada projeto de forma eficaz.
+## 💼 Experiência e Conhecimento
 
-## Compromisso com Qualidade e Inovação
+- **Desenvolvimento Fullstack:** Mais de uma década atuando em aplicações web e desktop.
+- **Tecnologias Diversas:** Ampla experiência com linguagens como JavaScript, TypeScript, Python, Java e C#.
+- **Frameworks Modernos:** Proficiência em React, Angular, Vue.js, Node.js, .NET e Electron.
+- **Melhores Práticas:** Implementação de metodologias ágeis, TDD e arquitetura de software robusta.
+- **Soluções Eficientes:** Foco em entregar soluções que atendam às necessidades específicas de cada projeto com alta performance.
 
-- **Excelência na Entrega:** Comprometido em fornecer soluções de alta qualidade.
-- **Busca por Desafios:** Interesse contínuo por desafios estimulantes e novas possibilidades.
-- **Experiência do Usuário:** Dedicação em criar produtos que se destacam em funcionalidade e design, proporcionando experiências excepcionais aos usuários.
+## 🚀 Compromisso com Qualidade e Inovação
 
-Estou sempre aberto a novas oportunidades que me permitam crescer profissionalmente e contribuir para projetos significativos.
+- **Excelência na Entrega:** Comprometido em fornecer produtos de alta qualidade que superem as expectativas.
+- **Busca por Desafios:** Sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+- **Experiência do Usuário:** Dedicação em criar interfaces intuitivas e designs atraentes, proporcionando experiências excepcionais aos usuários.
+- **Inovação Contínua:** Interesse constante em explorar e implementar as últimas tendências e tecnologias do mercado.
+
+## 🛠️ Habilidades Técnicas
+
+- **Linguagens:** JavaScript, TypeScript, Python, Java, C#
+- **Frameworks/Libraries:** React, Angular, Vue.js, Node.js, .NET, Electron
+- **Ferramentas:** Git, Docker, AWS, Azure, CI/CD
+- **Metodologias:** Agile, Scrum, TDD
+
+## 📫 Vamos Conectar!
+
+Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
+
+- **Email:** [jonas.freitas@example.com](mailto:contato@jonasfreitas.dev)
+- **LinkedIn:** [linkedin.com/in/jonasfreitas](https://linkedin.com/in/jonasfreitas-dev)
+---
+
+> "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
+
+
 
 ---
 
