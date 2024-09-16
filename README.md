@@ -28,8 +28,8 @@ Olá! Eu sou Jonas Freitas, um desenvolvedor **Fullstack** com mais de **10 anos
 
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
 
-- **Email:** [jonas.freitas@example.com](mailto:contato@jonasfreitas.dev)
-- **LinkedIn:** [linkedin.com/in/jonasfreitas](https://linkedin.com/in/jonasfreitas-dev)
+- **Email:** [contato@jonasfreitas.dev](mailto:contato@jonasfreitas.dev)
+- **LinkedIn:** [linkedin.com/in/jonasfreitas-dev](https://linkedin.com/in/jonasfreitas-dev)
 ---
 
 > "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
